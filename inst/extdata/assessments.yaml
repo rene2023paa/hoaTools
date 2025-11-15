@@ -1,0 +1,30 @@
+units:
+  - unit_size: "1 bed 1 bath"
+    no_of_unit: 60
+    2020: 236.77
+    2023: 251.16
+    2024: 275.77368
+  - unit_size: "2 bed 1 bath"
+    no_of_unit: 92
+    2020: 312.26
+    2023: 331.22
+    2024: 363.67956
+  - unit_size: "2 bed 2 bath"
+    no_of_unit: 20
+    2020: 340.50
+    2023: 361.17
+    2024: 396.56466
+  - unit_size: "2 bed 2 bath with den"
+    no_of_unit: 2
+    2020: 387.57
+    2023: 411.13
+    2024: 451.42074
+  - unit_size: "3 bed 2 bath"
+    no_of_unit: 6
+    2020: 387.57
+    2023: 411.13
+    2024: 451.42074
+
+notes:
+  2023: |
+    There were two increases in 2023. The Board has voted for a monthly increase of 4.5% starting in July 2023.
